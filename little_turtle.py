@@ -40,3 +40,5 @@ write("Зеленый: y = x * sin(x^3)", align="left", font=("Arial", 12, "norm
 # Update and close the turtle graphics window
 update()
 done()
+
+#writed by https://github.com/ilnarildarovuch2
